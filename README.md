@@ -1,4 +1,4 @@
-# End-to-end-Medical-Chatbot-Generative-AI
+# Medical-Chatbot-Generative-AI: Doctor
 
 
 # How to run?
